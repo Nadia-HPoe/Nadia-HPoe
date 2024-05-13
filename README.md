@@ -1,12 +1,12 @@
 <h1 align="center">Hello there👋, I'm Nadia</h1>
 
-<img  align="left" alt='logo' src='https://github.com/Nadia-HPoe/Nadia-HPoe/assets/126505646/60acb566-d53d-4d96-afa4-21e4c1ea6b9b' width='150'>
+<img  align="left" alt='logo' src='https://github.com/Nadia-HPoe/Nadia-HPoe/assets/126505646/19abe1b7-f2c0-4f97-92b4-8e8939a986b9' width='150'>
 <h4 align="left">I am a frontend developer with a passion for creating interactive and user-friendly web applications.</h4>
 <h4 align="left">I enjoy collaborating with cross-functional teams to deliver high-quality solutions that meet client requirements. I am always learning and exploring new technologies to enhance my skills and stay up-to-date with the latest industry trends.</h4>
 <h4 align="left">In my free time, I experiment with new coding concepts, participate in hackathons and learning Hungarian language.</h4>
 
 
-## My skills💻
+## My skills
 <ul>
 <li> Java Script <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a></li>
 <li> React <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a></li>
