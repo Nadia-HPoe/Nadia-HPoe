@@ -3,7 +3,7 @@
 <img  align="left" alt='logo' src='https://github.com/Nadia-HPoe/Nadia-HPoe/assets/126505646/19abe1b7-f2c0-4f97-92b4-8e8939a986b9' width='150'>
 <h4 align="left">I am a frontend developer with a passion for creating interactive and user-friendly web applications.</h4>
 <h4 align="left">I enjoy collaborating with cross-functional teams to deliver high-quality solutions that meet client requirements. I am always learning and exploring new technologies to enhance my skills and stay up-to-date with the latest industry trends.</h4>
-<h4 align="left">In my free time, I experiment with new coding concepts, participate in hackathons and learning Hungarian language.</h4>
+<h4 align="left">In my free time, I experiment with new coding concepts, participate in hackathons and learn Hungarian language.</h4>
 
 
 ## My skills
