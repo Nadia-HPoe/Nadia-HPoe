@@ -21,7 +21,8 @@
   and <b>Adobe Photoshop</b> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40" /></a> </p>
 
 ## Projects
-1. [Portfolio for brand specialist](https://github.com/annalatyeva/anna-katsur-portfolio)
-2. [Online shop for flowers](https://github.com/Nadia-HPoe/FlowerShop-build)
-3. [Dental clinic website](https://github.com/Evgenia0712/The_Dentistry)
-4. [English teacher website](https://github.com/Dari-Dari/59_ielts_kukieva)
+1. [HR Advisor Landing Page](https://github.com/Nadia-HPoe/HR_landing)
+2. [Portfolio for brand specialist](https://github.com/annalatyeva/anna-katsur-portfolio)
+3. [Online shop for flowers](https://github.com/Nadia-HPoe/Bon-Bon-Flowershop)
+4. [Dental clinic website](https://github.com/Evgenia0712/The_Dentistry)
+5. [English teacher website](https://github.com/Dari-Dari/59_ielts_kukieva)
